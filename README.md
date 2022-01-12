@@ -1,3 +1,3 @@
 # uSafeSpot.github.io
 personal github page
-[Link](www.safespot.dev)
+[Link](https://www.safespot.dev/)
